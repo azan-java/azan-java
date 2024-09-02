@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azan Baloch</h1>
-<h3 align="center">FullStack Java, Spring Boot and React Js Developer</h3>
+<h3 align="center">FullStack Developer, Java | Spring Boot | React Js | Docker</h3>
 
 - 🔭 I’m currently working on my own software [BuildAzan](buildazaan.netlify.com)
 
